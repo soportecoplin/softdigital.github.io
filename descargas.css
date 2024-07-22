@@ -1,0 +1,700 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#PageHeader1
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   border-radius: 0px;
+   box-sizing: border-box;
+}
+#Shape2
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Shape4
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Shape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Layer1
+{
+   background-color: transparent;
+   background-image: url('images/img1.jpg');
+   background-repeat: repeat;
+   background-position: left center;
+   background-attachment: fixed;
+   background-position: 50% 0;
+   background-size: cover;
+   border-radius: 0px;
+}
+#ClipArt1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5
+{
+   color: #7B68EE;
+   font-family: Arial;
+   font-weight: 400;
+   font-size: 53px;
+   line-height: 59.5px;
+}
+#wb_Text5 p, #wb_Text5 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text11
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: 400;
+   font-size: 13px;
+   line-height: 16px;
+}
+#wb_Text11 p, #wb_Text11 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_FontAwesomeIcon2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#FontAwesomeIcon2
+{
+   height: 99px;
+   width: 102px;
+}
+#FontAwesomeIcon2 i
+{
+   color: #265A88;
+   display: inline-block;
+   font-size: 99px;
+   line-height: 99px;
+   vertical-align: middle;
+   width: 98px;
+}
+#wb_FontAwesomeIcon2:hover #FontAwesomeIcon2 i
+{
+   color: #337AB7;
+}
+#wb_Image2
+{
+   vertical-align: top;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer2
+{
+   background-color: #50825F;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer3
+{
+   background-color: #50825F;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_TextMenu1
+{
+   background-color: transparent;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: underline;
+   text-transform: none;
+   font-size: 19px;
+   margin: 0;
+   text-align: center;
+   overflow: hidden;
+}
+#wb_TextMenu1 span
+{
+   margin: 0 12px 0 0px;
+}
+#wb_TextMenu1 a
+{
+   color: inherit;
+   text-decoration: inherit;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 18px;
+}
+#wb_Text1 p, #wb_Text1 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2
+{
+   color: #000000;
+   font-family: "Times New Roman";
+   font-weight: bold;
+   font-size: 21px;
+   line-height: 24.5px;
+}
+#wb_Text2 p, #wb_Text2 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 18px;
+}
+#wb_Text6 p, #wb_Text6 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_FontAwesomeIcon1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#FontAwesomeIcon1
+{
+   height: 39px;
+   width: 40px;
+}
+#FontAwesomeIcon1 i
+{
+   color: #265A88;
+   display: inline-block;
+   font-size: 39px;
+   line-height: 39px;
+   vertical-align: middle;
+   width: 38px;
+}
+#wb_FontAwesomeIcon1:hover #FontAwesomeIcon1 i
+{
+   color: #337AB7;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 18px;
+}
+#wb_Text7 p, #wb_Text7 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#ClipArt6
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text9
+{
+   color: #FF1493;
+   font-family: Arial;
+   font-weight: 400;
+   font-size: 21px;
+   line-height: 24.5px;
+}
+#wb_Text9 p, #wb_Text9 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#ClipArt7
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#ClipArt3
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3
+{
+   color: #FF1493;
+   font-family: Arial;
+   font-weight: 400;
+   font-size: 21px;
+   line-height: 24.5px;
+}
+#wb_Text3 p, #wb_Text3 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_FontAwesomeIcon5
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#FontAwesomeIcon5
+{
+   height: 39px;
+   width: 40px;
+}
+#FontAwesomeIcon5 i
+{
+   color: #265A88;
+   display: inline-block;
+   font-size: 39px;
+   line-height: 39px;
+   vertical-align: middle;
+   width: 38px;
+}
+#wb_FontAwesomeIcon5:hover #FontAwesomeIcon5 i
+{
+   color: #337AB7;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text10
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: 400;
+   font-size: 13px;
+   line-height: 16px;
+}
+#wb_Text10 p, #wb_Text10 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_FontAwesomeIcon6
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#FontAwesomeIcon6
+{
+   height: 41px;
+   width: 53px;
+}
+#FontAwesomeIcon6 i
+{
+   color: #265A88;
+   display: inline-block;
+   font-size: 41px;
+   line-height: 41px;
+   vertical-align: middle;
+   width: 40px;
+}
+#wb_FontAwesomeIcon6:hover #FontAwesomeIcon6 i
+{
+   color: #337AB7;
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text12
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: 400;
+   font-size: 13px;
+   line-height: 16px;
+}
+#wb_Text12 p, #wb_Text12 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text13 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text13
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: 400;
+   font-size: 13px;
+   line-height: 16px;
+}
+#wb_Text13 p, #wb_Text13 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 22.5px;
+}
+#wb_Text4 p, #wb_Text4 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#ClipArt2
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_FontAwesomeIcon3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_FontAwesomeIcon3 a::after
+{
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   z-index: 1;
+   pointer-events: auto;
+   content: "";
+}
+#FontAwesomeIcon3
+{
+   height: 47px;
+   width: 64px;
+}
+#FontAwesomeIcon3 i
+{
+   color: #265A88;
+   display: inline-block;
+   font-size: 47px;
+   line-height: 47px;
+   vertical-align: middle;
+   width: 46px;
+}
+#wb_FontAwesomeIcon3:hover #FontAwesomeIcon3 i
+{
+   color: #337AB7;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 13px;
+   line-height: 16px;
+}
+#wb_Text8 p, #wb_Text8 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_FontAwesomeIcon4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_FontAwesomeIcon4 a::after
+{
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   z-index: 1;
+   pointer-events: auto;
+   content: "";
+}
+#FontAwesomeIcon4
+{
+   height: 47px;
+   width: 67px;
+}
+#FontAwesomeIcon4 i
+{
+   color: #265A88;
+   display: inline-block;
+   font-size: 47px;
+   line-height: 47px;
+   vertical-align: middle;
+   width: 46px;
+}
+#wb_FontAwesomeIcon4:hover #FontAwesomeIcon4 i
+{
+   color: #337AB7;
+}
+#wb_Text14 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text14 div
+{
+   text-align: left;
+}
+#wb_Text15 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text15 div
+{
+   text-align: left;
+}
+#wb_Text16 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text16 div
+{
+   text-align: left;
+}
+#wb_Text17 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text17 div
+{
+   text-align: left;
+}
+#wb_Text18 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text18 div
+{
+   text-align: left;
+}
+#PageFooter2
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   border-radius: 0px;
+   box-sizing: border-box;
+}
+#PageFooter1
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   border-radius: 0px;
+   box-sizing: border-box;
+   animation: animate-background 1000ms linear 0ms infinite normal both;
+}
